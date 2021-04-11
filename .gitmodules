@@ -7,3 +7,7 @@
 [submodule "themes/introduction"]
 	path = themes/introduction
 	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "demo-hugo"]
+	path = demo-hugo
+	url = https://github.com/yogikusumandanibefore/demo-hugo.git
+	branch = main
